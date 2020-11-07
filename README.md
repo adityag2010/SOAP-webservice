@@ -1,2 +1,2 @@
-# SOAP-webservice
+# SOAP Webservice
 SOAP webservices using Spring
